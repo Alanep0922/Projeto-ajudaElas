@@ -1,4 +1,8 @@
-
+<br>
+<div align = "center">
+<img src='./src/logo.png' width = 500 alt = 'logo ajudaElas'>
+</div>
+<br>
  Projeto: AjudaElas - Organização Feminista
 O Projeto é um sistema de cadastro para mulheres que desejam se voluntariar ao AjudaElas que oferece assessoria profissional gratuita para mulheres cis e trans em situação de violência e vulnerabilidade social, onde existem um grupo de voluntárias em cada estado do País.
 
@@ -14,6 +18,9 @@ A ONG está voltado a oferecer orientação e assessoria às mulheres, a partir 
         |- 📁 📄 app.js
    |    |- 📁 database
    |         |- 📄 moogoConfig.js
+
+   |    |- 📁 middlewares
+   |         |- 📄 auth.js
    |
    |    |- 📁 controllers
    |         |- 📄 authController.js
