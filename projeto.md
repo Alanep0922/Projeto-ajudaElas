@@ -18,7 +18,9 @@ A ONG está voltado a oferecer orientação e assessoria às mulheres, a partir 
    |-  📁 src
    |    |
         |- 📁 📄 app.js
+
    |    |- 📁 database
+
    |         |- 📄 moogoConfig.js
 
 
@@ -29,15 +31,20 @@ A ONG está voltado a oferecer orientação e assessoria às mulheres, a partir 
 
    |
    |    |- 📁 controllers
+
    |         |- 📄 authController.js
+
    |         |- 📄 voluntariasController.js
+
    |         |- 📄 beneficiadasController.js  
  
 
 
    |         
    |    |- 📁 models
+
    |         |- 📄 VoluntariasSchema.js
+
    |         |- 📄 BeneficiadasSchema.js
 
 
@@ -45,15 +52,18 @@ A ONG está voltado a oferecer orientação e assessoria às mulheres, a partir 
    |
    |    |- 📁 routes
    |         |- 📄 voluntariasRoutes.js 
+   
    |         |- 📄 beneficiadasRoutes.js 
 
  
    |    |- 📁 utils
+
    |         |- 📄 servicos.js 
 
 
 
    |    |- 📁 middleawars
+   
    |         |- 📄 auth.js 
 
 
