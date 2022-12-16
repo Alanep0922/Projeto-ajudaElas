@@ -6,7 +6,7 @@
  Projeto: AjudaElas - Organização Feminista
 
 
-O Projeto é um sistema de cadastro para mulheres que desejam se voluntariar ao AjudaElas tanto para mulheres que estão buscando ajuda profissional. O projeto social AjudaElas  oferece assessoria profissional gratuita para mulheres cis e trans em situação de violência e vulnerabilidade social, onde existem um grupo de voluntárias em cada estado do País.
+O Projeto é um sistema de cadastro para mulheres que desejam se voluntariar ao AjudaElas e também  para mulheres que estão buscando ajuda profissional. O projeto social AjudaElas  oferece assessoria profissional gratuita para mulheres cis e trans em situação de violência e vulnerabilidade social, onde existem um grupo de voluntárias em cada estado do País.
 
 A ONG está voltado a oferecer orientação e assessoria às mulheres, a partir da formação profissional das voluntárias. O AjudaElas oferece atendimento profissional voluntário nas áreas de serviço social, direito e psicologia, levando em consieração serem áreas mais presentes no atendimento à violência do genero, a Organização também promove eventos e cursos objetivo de promover espaços educativos e de maior conscientização para equidade de gênero e direitos humanos das meninas e mulheres.
 
