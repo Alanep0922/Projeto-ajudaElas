@@ -10,69 +10,54 @@ O Projeto é um sistema de cadastro para mulheres que desejam se voluntariar ao 
 
 A ONG está voltado a oferecer orientação e assessoria às mulheres, a partir da formação profissional das voluntárias. O AjudaElas oferece atendimento profissional voluntário nas áreas de serviço social, direito e psicologia, levando em consieração serem áreas mais presentes no atendimento à violência de genero.
   
+  📁 Arquitetura
+
  
- 📁 Arquitetura
- 
+
  📁 Projeto
-   |
-   |-  📁 src
-   |    |
-        |- 📁 📄 app.js
 
-   |    |- 📁 database
+ 📁 node_modules
 
-   |         |- 📄 moogoConfig.js
+ 📁 src
 
-
-
-   |    |- 📁 middlewares
-   |         |- 📄 auth.js
+      📁 controllers
+          📄 authController.js
+          📄 beneficiadasController.js
+          📄 voluntariaController.js 
 
 
-   |
-   |    |- 📁 controllers
-
-   |         |- 📄 authController.js
-
-   |         |- 📄 voluntariasController.js
-
-   |         |- 📄 beneficiadasController.js  
- 
+     📁 database
+          📄 moogoConfig.js
 
 
-   |         
-   |    |- 📁 models
+     📁  middlewares
+          📄 auth.js
 
-   |         |- 📄 VoluntariasSchema.js
-
-   |         |- 📄 BeneficiadasSchema.js
-
-
-
-   |
-   |    |- 📁 routes
-   |         |- 📄 voluntariasRoutes.js 
+      
+     📁 models
+          📄 BeneficiadaSchema.js
+          📄 VoluntariaSchema.js 
+        
    
-   |         |- 📄 beneficiadasRoutes.js 
+     📁 routes
+         📄 beneficiadasRouter.js
+         📄 voluntariaRouter.js   
+         📄 indexRouter.js    
 
- 
-   |    |- 📁 utils
-
-   |         |- 📄 servicos.js 
-
-
-
-   |    |- 📁 middleawars
-   
-   |         |- 📄 auth.js 
+    📁 utils
+         📄 servico.js
 
 
+     📄 app.js  
+     📄 .env   
+     📄 .env.exemple    
+     📄 .gitignore  
+     📄 package-lock.json   
+     📄 package.json   
+     📄 projeto.md
+     📄 server.js
+     📄 vercel.json
 
-   |
-   |- 📄 .env
-   |- 📄 .gitignore
-   |- 📄 package
-   |- 📄 server.js
 
 
 
